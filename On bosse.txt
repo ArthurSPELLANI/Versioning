@@ -1,5 +1,12 @@
 ALLO ?
 
+<<<<<<< HEAD
 C'est très la nouvelle branche oupa
 
 ALLOOO
+=======
+C'est très la nouvelle branche
+
+
+SALU
+>>>>>>> Arthur-12-09-2019
